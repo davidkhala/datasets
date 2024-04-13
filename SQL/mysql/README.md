@@ -1,3 +1,3 @@
 # [sakila sample dataset](https://dev.mysql.com/doc/sakila/en/)
 Used in
-- DbVisualizer
+- [DbVisualizer](https://github.com/davidkhala/data/blob/main/model/vendors.md#freemium)
