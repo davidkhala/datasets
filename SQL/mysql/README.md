@@ -2,5 +2,5 @@
 Used in
 - [DbVisualizer](https://github.com/davidkhala/data/blob/main/model/vendors.md#freemium)
 
-Download
-- check latest: https://downloads.mysql.com/docs/sakila-db.tar.gz
+[Download latest](https://downloads.mysql.com/docs/sakila-db.tar.gz)
+- The `sakila.mwb` file is a MySQL Workbench data model that you can open within MySQL Workbench to examine the database structure
