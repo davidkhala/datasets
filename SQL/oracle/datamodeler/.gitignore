@@ -1,4 +1,6 @@
 # local IDE config
 dl_settings.xml
 **/*.localz
-.local
+**/*.local
+**/*.git
+**/*.DS_Store
