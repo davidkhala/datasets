@@ -1,2 +1,4 @@
 # local IDE config
 dl_settings.xml
+**/*.localz
+.local
