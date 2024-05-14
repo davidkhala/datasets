@@ -8,5 +8,5 @@ Used in
 # TPC-H for mysql
 MySQL DDL provided by [github.com/oracle/heatwave-tpch](https://github.com/oracle/heatwave-tpch/tree/main)
 
-Content should be generated using TPC-H data generation tool
+Content should be generated using TPC-H data generation tool. See in https://github.com/davidkhala/datasets/blob/main/SQL/TPC/TPC-H.md
 
