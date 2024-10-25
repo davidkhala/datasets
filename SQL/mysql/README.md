@@ -4,3 +4,9 @@ Used in
 
 [Download latest](https://downloads.mysql.com/docs/sakila-db.tar.gz)
 - The `sakila.mwb` file is a MySQL Workbench data model that you can open within MySQL Workbench to examine the database structure
+
+# TPC-H for mysql
+MySQL DDL provided by [github.com/oracle/heatwave-tpch](https://github.com/oracle/heatwave-tpch/tree/main)
+
+Content should be generated using TPC-H data generation tool. See in https://github.com/davidkhala/datasets/blob/main/SQL/TPC/TPC-H.md
+
