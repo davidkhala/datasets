@@ -7,8 +7,10 @@ pypi `azureml-opendatasets` has been deprecated
 
 ## TLC Trip Record Data
 All files stored in the PARQUET format
+- catalog/dataset: `azureopendatastorage`
+- schema/database: `nyctlc`
 
-### 2024 Sep 
+### 2024 Sep
 - Yellow Taxi Trip Records
   - https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-09.parquet
 - Green Taxi Trip Records
