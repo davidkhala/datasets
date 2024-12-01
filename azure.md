@@ -2,3 +2,4 @@
 
 pypi `azureml-opendatasets` has been deprecated
 - https://github.com/Azure/OpenDatasetsNotebooks
+- It cannot be installed in python 3.13
